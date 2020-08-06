@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: msv-pedido
+  profiles:    active: local  
+  
